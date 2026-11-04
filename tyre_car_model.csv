@@ -1,0 +1,323 @@
+id,brand_id,name
+24,2,145
+25,2,146
+26,2,147
+27,2,155
+28,2,156
+29,2,159
+30,2,164
+31,2,166
+32,2,33
+33,2,4C
+34,2,75
+35,2,8C
+36,2,"8C Competizione"
+37,2,90
+38,2,"Alfa 6"
+39,2,Alfasud
+40,2,Alfetta
+41,2,Arna
+42,2,Brera
+43,2,"Crosswagon Q4"
+44,2,Giulia
+45,2,Giulietta
+46,2,GT
+47,2,GTV
+48,2,MiTo
+49,2,Montreal
+50,2,RZ
+51,2,Spider
+52,2,Sprint
+53,2,Stelvio
+54,2,SZ
+80,4,100
+81,4,80
+82,4,A1
+83,4,A2
+84,4,A3
+85,4,A4
+86,4,"A4 Allroad"
+87,4,A5
+88,4,A6
+89,4,"A6 Allroad"
+90,4,A7
+91,4,A8
+92,4,Allroad
+93,4,Cabriolet
+94,4,Coupe
+95,4,e-tron
+96,4,Q2
+97,4,Q3
+98,4,Q5
+99,4,Q7
+100,4,Q8
+101,4,R8
+102,4,"RS Q3"
+103,4,RS2
+104,4,RS3
+105,4,RS4
+106,4,RS5
+107,4,RS6
+108,4,RS7
+109,4,S1
+110,4,S2
+111,4,S3
+112,4,S4
+113,4,S5
+114,4,S6
+115,4,S7
+116,4,S8
+117,4,SQ5
+118,4,SQ7
+119,4,TT
+120,4,"TT RS"
+121,4,TTS
+122,4,V8
+154,7,BJ212
+155,7,BW007
+156,7,Luba
+157,7,Luling
+158,7,"Qishi S12"
+159,7,Ruiling
+160,7,Yongshi
+161,7,Yueling
+162,7,Zhanqi
+163,7,"Zhanqi Pickup"
+177,10,Arnage
+178,10,Azure
+179,10,Bentayga
+180,10,Brooklands
+181,10,Continental
+182,10,"Continental Flying Spur"
+183,10,"Continental GT"
+184,10,"Continental GTC"
+185,10,"Continental Supersports"
+186,10,"Flying Spur"
+187,10,Mulsanne
+288,15,e5
+289,15,e6
+290,15,F0
+291,15,F3
+292,15,"F3 R"
+293,15,F3R
+294,15,F5
+295,15,F6
+296,15,F7
+297,15,F8
+298,15,Flyer
+299,15,"FLYER II"
+300,15,G3R
+301,15,G5
+302,15,G6
+303,15,L3
+304,15,M6
+305,15,Qin
+306,15,S6
+307,15,S7
+308,15,S8
+309,15,Sirui
+310,15,Song
+311,15,"Song MAX"
+312,15,Tang
+313,15,Yuan
+314,16,Allante
+315,16,ATS
+316,16,ATS-V
+317,16,BLS
+318,16,Brougham
+319,16,Catera
+320,16,CT6
+321,16,CTS
+322,16,DeVille
+323,16,DTS
+324,16,Eldorado
+325,16,ELR
+326,16,Escalade
+327,16,Fleetwood
+328,16,"Fleetwood Brougham"
+329,16,Seville
+330,16,SRX
+331,16,STS
+332,16,XLR
+333,16,XT4
+334,16,XT5
+335,16,XTS
+662,22,Ax
+663,22,Berlingo
+664,22,Bx
+665,22,C-Crosser
+666,22,C-Elysee
+667,22,C-Quatre
+668,22,C-Triomphe
+669,22,C-Zero
+670,22,C1
+671,22,C2
+672,22,C3
+673,22,"C3 Aircross"
+674,22,"C3 Picasso"
+675,22,"C3 Pluriel"
+676,22,C3-XR
+677,22,C4
+678,22,"C4 Aircross"
+679,22,"C4 Cactus"
+680,22,"C4 Picasso"
+681,22,"C4 Quatr?"
+682,22,"C4 Sedan"
+683,22,"C4 SpaceTourer"
+684,22,C4L
+685,22,C5
+686,22,"C5 Aircross"
+687,22,C6
+688,22,C8
+689,22,Dispatch
+690,22,DS3
+691,22,DS4
+692,22,DS5
+693,22,E-Mehari
+694,22,Elys?e
+695,22,Evasion
+696,22,Fukang
+697,22,"Grand C4 Picasso"
+698,22,"Grand C4 SpaceTourer"
+699,22,Jumper
+700,22,Jumpy
+701,22,Nemo
+702,22,Relay
+703,22,Saxo
+704,22,Spacetourer
+705,22,Synergie
+706,22,Xantia
+707,22,Xm
+708,22,Xsara
+709,22,"Xsara Picasso"
+710,22,ZX
+3889,4,"Q3 Sportback"
+3890,4,"RS Q3 Sportback"
+3891,4,SQ2
+3935,15,e1
+3936,15,e2
+3937,15,"Qin Pro"
+3938,15,S2
+3939,15,S3
+3940,15,S5
+3941,15,"Song Pro"
+3942,15,T3
+3943,15,"Yuan EV"
+3944,16,ATS-L
+3945,16,CT5
+3946,16,CT6-V
+3947,16,CTS-V
+3948,16,STS-V
+3949,16,XLR-V
+3950,16,XT6
+3966,22,CX
+4307,4,"A1 citycarver"
+4308,4,"e-tron Sportback"
+4309,4,"RS Q8"
+4310,4,SQ8
+4326,15,e3
+4327,16,CT4
+4328,16,CT4-V
+4329,16,CT5-V
+4349,22,Aircross
+4750,2,Milano
+4751,4,200
+4752,4,4000
+4753,4,5+5
+4754,4,5000
+4755,4,90
+4756,4,"e-tron GT"
+4757,4,"Q5 Sportback"
+4758,4,"RS e-tron GT"
+4759,4,"SQ5 Sportback"
+4768,15,G3
+4774,22,Ami
+4775,22,C3L
+4776,22,"C4 Sega"
+4907,4,Q4
+4925,22,"Berlingo Multispace"
+4976,2,Tonale
+4977,4,"Q4 Sportback"
+4985,15,"Destroyer 05"
+4986,15,Dolphin
+4987,15,Han
+4988,15,Seal
+5362,4,"A1 allstreet"
+5363,4,A3L
+5364,4,A4L
+5365,4,A6L
+5366,4,A7L
+5367,4,A8L
+5368,4,"e-tron S"
+5369,4,"e-tron S Sportback"
+5370,4,Q2L
+5371,4,"Q2L e-tron"
+5372,4,"Q5 e-tron"
+5373,4,Q5L
+5374,4,"Q5L Sportback"
+5375,4,Q6
+5376,4,"Q8 e-tron"
+5377,4,"Q8 Sportback e-tron"
+5378,4,S8L
+5385,15,"Atto 3"
+5386,15,D1
+5387,15,M3
+5388,15,"Qin Plus"
+5389,15,"Song Plus"
+5390,16,Escalade-V
+5391,16,Lyriq
+5403,22,"C5 X"
+5602,4,"SQ8 e-tron"
+5603,4,"SQ8 Sportback e-tron"
+5619,22,Beyond
+5620,22,"C4 X"
+5906,4,"A3 allstreet"
+5907,4,"Q6 e-tron"
+5908,4,"SQ6 e-tron"
+5911,15,"Dolphin Plus"
+5912,15,"Frigate 07"
+5913,15,Seagull
+5914,15,"Song L"
+5915,15,"Yuan Pro"
+6107,2,Junior
+6110,4,A5L
+6111,4,"A6 e-tron"
+6112,4,"Q6 Sportback e-tron"
+6113,4,"Q6L e-tron"
+6114,4,"Q6L Sportback e-tron"
+6115,4,"S e-tron GT"
+6116,4,"S6 e-tron"
+6117,4,"SQ6 Sportback e-tron"
+6149,15,"Atto 2"
+6150,15,"Dolphin mini"
+6151,15,"Han L"
+6152,15,King
+6153,15,"Qin L"
+6154,15,"Sea Lion 05"
+6155,15,"Sea Lion 07"
+6156,15,"Sea Lion 6"
+6157,15,"Seal 05"
+6158,15,"Seal 06"
+6159,15,"Seal 06 GT"
+6160,15,"Seal 07"
+6161,15,"Seal U"
+6162,15,"Sealion 5"
+6163,15,"Sealion 7"
+6164,15,Shark
+6165,15,"Shark 6"
+6166,15,Tan
+6167,15,"Tang L"
+6168,15,Xia
+6169,15,"Yangwang U8"
+6170,15,"Yuan Plus"
+6171,15,"Yuan Up"
+6172,16,Celestiq
+6173,16,"Escalade IQ"
+6174,16,GT4
+6175,16,Lyriq-V
+6176,16,Optiq
+6177,16,Optiq-V
+6178,16,SLS
+6179,16,Vistiq
+6210,22,Basalt
+6211,22,Holidays
