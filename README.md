@@ -1,6 +1,6 @@
 # 🚗 Tire & Wheel Fitment Database — Free SQL / CSV Sample (Car Tyre Size & Rim Size by Vehicle)
 
-[![Full Database](https://img.shields.io/badge/Full%20Database-fitment--api.com-0a7cff?style=for-the-badge)](https://fitment-api.com/?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=badge)
+[![Full Database](https://img.shields.io/badge/Full%20Database-fitment--api.com-0a7cff?style=for-the-badge)](https://fitment-api.com/en?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=badge)
 ![Format](https://img.shields.io/badge/format-SQL%20%7C%20CSV-success?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Years](https://img.shields.io/badge/years-1953--2026-orange?style=for-the-badge)
@@ -9,7 +9,7 @@
 
 Ready-to-import **MySQL dump (`.sql`)** and **CSV** files — perfect for tire shops, wheel e‑commerce stores, "search tires by car" filters, fitment guides, mobile apps and auto parts marketplaces.
 
-> ### 👉 This repository is a **free sample**. The complete, regularly updated tire & wheel fitment database for **all car brands** is available at **[fitment-api.com](https://fitment-api.com/?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=top_cta)** — as a downloadable SQL/CSV database or via REST API.
+> ### 👉 This repository is a **free sample**. The complete, regularly updated tire & wheel fitment database for **all car brands** is available at **[fitment-api.com](https://fitment-api.com/en?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=top_cta)** — as a downloadable SQL/CSV database or via REST API.
 
 ---
 
@@ -180,7 +180,7 @@ ORDER BY is_stock DESC, diameter, width;
 
 ## ⚖️ Demo vs Full database
 
-| | **Demo (this repo)** | **[Full database](https://fitment-api.com/?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=compare_table)** |
+| | **Demo (this repo)** | **[Full database](https://fitment-api.com/en?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=compare_table)** |
 |---|:---:|:---:|
 | Car brands | 7 | ✅ All brands worldwide |
 | Models, years, modifications | Only for 7 brands | ✅ Complete coverage |
@@ -192,7 +192,7 @@ ORDER BY is_stock DESC, diameter, width;
 | Technical support | ❌ | ✅ |
 
 <p align="center">
-  <a href="https://fitment-api.com/?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=big_button">
+  <a href="https://fitment-api.com/en?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=big_button">
     <img src="https://img.shields.io/badge/%F0%9F%9B%9E%20Get%20the%20Full%20Fitment%20Database-fitment--api.com-0a7cff?style=for-the-badge" alt="Get the full tire and wheel fitment database">
   </a>
 </p>
@@ -210,7 +210,7 @@ It's a structured dataset that tells you which tire sizes and wheel (rim) sizes 
 <details>
 <summary><b>Is this data free?</b></summary>
 
-This repository contains a free **sample** for evaluation and testing (7 brands). The complete database with all car makes is available at [fitment-api.com](https://fitment-api.com/?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=faq).
+This repository contains a free **sample** for evaluation and testing (7 brands). The complete database with all car makes is available at [fitment-api.com](https://fitment-api.com/en?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=faq).
 </details>
 
 <details>
@@ -243,7 +243,7 @@ Yes. The data is platform‑agnostic — import the SQL/CSV into your store or c
 
 Need **all car makes and models**, regular updates, API access and a commercial license?
 
-### ➡️ **[https://fitment-api.com](https://fitment-api.com/?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=footer)**
+### ➡️ **[https://fitment-api.com/en](https://fitment-api.com/en?utm_source=github&utm_medium=readme&utm_campaign=tyre_demo&utm_content=footer)**
 
 ⭐ If this sample is useful, please **star the repository** — it helps others find it!
 
